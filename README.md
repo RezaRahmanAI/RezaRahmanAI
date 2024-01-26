@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/rizverahmanr" target="blank"><img src="https://img.shields.io/twitter/follow/rizverahmanr?logo=twitter&style=for-the-badge" alt="rizverahmanr" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m a **Software Developer**
 
-- 💬 Ask me about **Data Analysis, react,NextJS nodejs,SQL, MongoDB**
+- 💬 Ask me about ** .Net & .Net Core,Data Analysis, react, NextJS node.js, SQL, MongoDB**
 
-- ⚡ Fun fact **I thing I'm funny.**
+- ⚡ Fun fact **I think I'm funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
