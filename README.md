@@ -18,14 +18,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/rezarahmanai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rezarahmanai" height="30" width="40" /></a>
-<a href="https://twitter.com/rizverahmanr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rizverahmanr" height="30" width="40" /></a>
+<!-- <a href="https://dev.to/rezarahmanai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rezarahmanai" height="30" width="40" /></a>
+<a href="https://twitter.com/rizverahmanr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rizverahmanr" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/rizve-rahman-reza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizve-rahman-reza" height="30" width="40" /></a>
 <a href="https://kaggle.com/rizverahmanreza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rizverahmanreza" height="30" width="40" /></a>
 <a href="https://fb.com/mirakashai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mirakashai" height="30" width="40" /></a>
 <a href="https://instagram.com/rizve.rahman.reza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizve.rahman.reza" height="30" width="40" /></a>
 <a href="https://www.behance.net/mirakashai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mirakashai" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rizve_rahman_reza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rizve_rahman_reza" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/rizve_rahman_reza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rizve_rahman_reza" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
