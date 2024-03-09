@@ -12,7 +12,7 @@
 
 - 🌱 I’m a **Software Developer & ML Engineer**
 
-- 💬 Ask me about ** .Net & .Net Core, Machine Learning, Data Analysis,Angular, React, Node.js, SQL, MongoDB**
+- 💬 Ask me about ** .Net & .Net Core, Angular, React, SQL, Machine Learning, Data Analysis*
 
 - ⚡ Fun fact **I think I'm funny.**
 
