@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/rizverahmanr" target="blank"><img src="https://img.shields.io/twitter/follow/rizverahmanr?logo=twitter&style=for-the-badge" alt="rizverahmanr" /></a> </p>
 
-- 🌱 I’m a **Software Developer & ML Engineer**
+- 🌱 I’m a **Software Developer**
 
 - 💬 Ask me about ** .Net & .Net Core, Angular, React, SQL, Machine Learning, Data Analysis*
 
