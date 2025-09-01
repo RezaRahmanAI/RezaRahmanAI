@@ -12,7 +12,7 @@
 
 - 🌱 I’m a **Software Developer**
 
-- 💬 Ask me about ** .Net & .Net Core, Angular, React, SQL, Machine Learning, Data Analysis*
+- 💬 Ask me about ** .Net & .Net Core, Angular, SQL*
 
 - ⚡ Fun fact **I think I'm funny.**
 
